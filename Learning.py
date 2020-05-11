@@ -1,1 +1,1 @@
-Print "Welcome"
+print("Welcome to Learning class!")
